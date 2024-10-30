@@ -1,0 +1,7 @@
+wheel
+setuptools
+twine
+tox
+pytest
+pytest-cov
+build
