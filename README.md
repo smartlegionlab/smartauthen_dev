@@ -8,7 +8,7 @@ The project has moved [here](https://github.com/smartlegionlab/smartauthen).
 
 ***
 
-
+[![PyPI Downloads](https://static.pepy.tech/badge/smartauthen)](https://pepy.tech/projects/smartauthen)
 ![GitHub top language](https://img.shields.io/github/languages/top/smartlegionlab/smartauthen)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/smartauthen?label=pypi%20downloads)](https://pypi.org/project/smartauthen/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/smartlegionlab/smartauthen)](https://github.com/smartlegionlab/smartauthen/)
